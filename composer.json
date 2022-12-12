@@ -1,0 +1,15 @@
+{
+    "name": "saydum/micro_cms-php",
+    "autoload": {
+        "psr-4": {
+            "Saydum\\MicroCmsPhp\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Saydum Khalibekov",
+            "email": "saydum.it5@gmail.com"
+        }
+    ],
+    "require": {}
+}
