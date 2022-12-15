@@ -2,7 +2,7 @@
     "name": "saydum/micro_cms-php",
     "autoload": {
         "psr-4": {
-            "Saydum\\MicroCmsPhp\\": "src/"
+            "App\\": "app/"
         }
     },
     "authors": [
